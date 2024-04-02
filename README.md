@@ -6,3 +6,12 @@ W pracy przeanalizowaliśmy ciągły model interakcji w małżeństwie, badając
 - dynamika nieliniowa,
 - równania różniczkowe,
 - układy równań różniczkowych.
+
+---------------------------------------------------------------
+
+In this thesis, we analyzed a continuous model of marital interaction by deriving its solutions and analyzing the stability of each type of marriage interaction. We proposed a new pair subtype and found its exact solutions. We presented some improvements to the current model and explored the influence of its parameters. Moreover, we compared the results from Tung's model with those from the improved model.
+- Social interaction model,
+- marital evolution,
+- nonlinear dynamics,
+- differential equations,
+- systems of differential equations.
